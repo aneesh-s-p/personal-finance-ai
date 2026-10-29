@@ -1,0 +1,7 @@
+# Runtime state created when you use the app
+expense_log.txt
+learning_profile.txt
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
